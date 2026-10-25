@@ -6,9 +6,9 @@ A Flutter app that helps students discover campus events, save favorites and man
 
 ## Team
 
-| Full name | Student ID    | Contribution |
-| --------- | ------------- | ------------ |
-| Berk Cüce | `29917851574` | `Everything` |
+| Full name | Student ID    |
+| --------- | ------------- |
+| Berk Cüce | `29917851574` |
 
 ## Flutter version
 
